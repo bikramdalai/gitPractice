@@ -1,5 +1,5 @@
 package com.nt.bean;
-import java.util.Date;
+import java.util.*;
 public class Utility {
 	public  Date getSysDate()
 	{
