@@ -1,8 +1,8 @@
 package com.nt.bean;
-import java.util.*;
+import java.util.Date;
 public class Utility {
-//	public  Object getSysDate()
-//	{
-//		return Date; 
-//	}
+	public  Date getSysDate()
+	{
+		return new Date(); 
+	}
 }
